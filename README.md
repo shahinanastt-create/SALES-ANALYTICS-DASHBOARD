@@ -5,7 +5,7 @@ An interactive **Sales Analytics Dashboard** created using Microsoft Excel to an
 
 ## 🖼️ Dashboard Preview
 
-![Sales Analytics Dashboard](dashboard.png)
+<img width="926" height="449" alt="Screenshot 2026-09-14 103957" src="https://github.com/user-attachments/assets/90c0e0a1-eb99-46ee-9db7-3563eea0d923" />
 
 ## 📌 Project Overview
 
